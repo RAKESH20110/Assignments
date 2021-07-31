@@ -1,2 +1,2 @@
 # Assignments
-A repository for all the assignments
+A repository for ll the assignments
